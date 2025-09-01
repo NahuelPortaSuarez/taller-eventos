@@ -1,5 +1,5 @@
 const divino = document.getElementById("divino");
-divino.addEventListener("mouseover", () => {
+divino.addEventListener("click", () => {
     alert("¡Hola! ¡¡¡¡¡¡¡¡Soy el Div!!!!!!!!");
 
 });
